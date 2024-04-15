@@ -5,7 +5,7 @@ in_menu: true
 ---
 <a href='https://postimg.cc/0KQYs4c5' target='_blank'><img src='https://i.postimg.cc/0KQYs4c5/educ-pop.jpg' border='0' alt='educ-pop'/></a>
 
-**Le Printemps de l'Education Populaire**
+## Le Printemps de l'Education Populaire
 
 Est un événement qui a eu lieu, pour sa première édition, le 4 avril 2024 au Hall des expositions de la ville de Brignoles (Var).
 

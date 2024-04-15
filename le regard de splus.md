@@ -1,6 +1,5 @@
 ---
 title: "Le regard de Splus"
-order: 6
+order: 3
 in_menu: true
 ---
- 

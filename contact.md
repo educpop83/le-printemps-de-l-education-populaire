@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-order: 5
+order: 6
 in_menu: true
 ---
 Le Printemps de l’Education Populaire, 1ère édition, a été mise en place par le Comité de Pilotage (COPIL) composé par :

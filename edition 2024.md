@@ -1,5 +1,5 @@
 ---
-title: "Edi"
+title: "Edition 2024"
 order: 2
 in_menu: true
 ---

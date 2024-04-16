@@ -1,6 +1,6 @@
 ---
 title: "Edition 2024"
-order: 0
+order: 2
 in_menu: true
 ---
 [![educ-pop.jpg](https://i.postimg.cc/0yRRnqrB/educ-pop.jpg)](https://postimg.cc/hfr546LL)

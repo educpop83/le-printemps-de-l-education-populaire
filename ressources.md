@@ -1,6 +1,6 @@
 ---
 title: "Ressources"
-order: 5
+order: 6
 in_menu: true
 ---
 Vous trouverez ci-dessous un mur collaboratif (hébergé par la solution _open source_ [Digipad](https://digipad.app/)) contenant l'ensemble des ressources mises à disposition par les structures organisatrices et les intervenants de la journée départementale.

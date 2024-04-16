@@ -1,5 +1,5 @@
 ---
 title: "Photos"
-order: 2
+order: 3
 in_menu: true
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-order: 6
+order: 7
 in_menu: true
 ---
 **La Ligue de l'enseignement - FOL du Var** a été l'animateur d'un comité d'organisation créé pour l'édition 2024 du _Printemps de l'Education Populaire_, qui a regroupé différents acteurs de l'éducation populaire qui ont répondu présents : 

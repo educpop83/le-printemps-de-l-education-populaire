@@ -1,6 +1,6 @@
 ---
 title: "Vidéos"
-order: 4
+order: 5
 in_menu: true
 ---
 Conférence de Jean-Karl DESCHAMPS et Christian CHEVALIER, membres du Conseil Economique, Social et Environnemental (**CESE**) sur _L'Education Populaire, une exigence du XXIème siècle_ 

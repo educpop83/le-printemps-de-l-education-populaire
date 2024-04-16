@@ -1,5 +1,5 @@
 ---
-title: "Accueil"
+title: "Edition 2024"
 order: 0
 in_menu: true
 ---

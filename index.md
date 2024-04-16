@@ -5,7 +5,7 @@ in_menu: true
 ---
 [![educ-pop.jpg](https://i.postimg.cc/0yRRnqrB/educ-pop.jpg)](https://postimg.cc/hfr546LL)
 
-[color=#26B260]## Le Printemps de l'Education Populaire[/color]
+## <span style="color: #3FB8D3">Le Printemps de l'Education Populaire</span>
 
 Parce que l'éducation populaire est primordiale, et malheureusement souvent méconnue ou peu visible, nous avons souhaité mettre en lumière ce secteur d'intervention éducative en organisant une journée de rencontre départementale.
 

@@ -14,8 +14,6 @@ in_menu: true
         }
 
 .allimg {
-            display: inline-block;
-            margin-right: 10px;
             width:50%;margin-left:25%; margin-right:25%;
         }
     </style>

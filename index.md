@@ -3,7 +3,7 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-<a href='https://postimg.cc/063pGnfb' target='_blank'><img src='https://i.postimg.cc/063pGnfb/educ-pop.jpg' border='0' alt='educ-pop'/></a>
+[![educ-pop.jpg](https://i.postimg.cc/0yRRnqrB/educ-pop.jpg)](https://postimg.cc/hfr546LL)
 
 ## Le Printemps de l'Education Populaire
 

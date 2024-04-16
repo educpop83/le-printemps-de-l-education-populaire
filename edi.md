@@ -1,5 +1,5 @@
 ---
-title: "Accueil"
+title: "Edi"
 order: 2
 in_menu: true
 ---

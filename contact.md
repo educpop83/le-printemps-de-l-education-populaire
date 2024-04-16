@@ -5,7 +5,7 @@ in_menu: true
 ---
 **La Ligue de l'enseignement - FOL du Var** a été l'animateur d'un comité d'organisation créé pour l'édition 2024 du _Printemps de l'Education Populaire_, qui a regroupé différents acteurs de l'éducation populaire qui ont répondu présents : 
 
-
+[![logo-Francas.jpg](https://i.postimg.cc/mkbFmM9Q/logo-Francas.jpg)](https://www.francas83.com/)
 
 •	L’Association Départementale des Francas du Var
 

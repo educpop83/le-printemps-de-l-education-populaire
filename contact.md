@@ -12,13 +12,18 @@ in_menu: true
             display: inline-block; /* Affiche les images côte à côte */
             margin-right: 10px; /* Espacement entre les images */
         }
+
+.allimg {
+            padding-left:25%; padding-right:25%;
+        }
     </style>
 </head>
+
 <body>
     <div class="image-container">
         <a href='https://www.francas83.com/' target='_blank'><img src='https://i.postimg.cc/nrQ1tqzN/logo-Francas.jpg' border='0' alt='logo-Francas'/></a>
     </div>
-    <div class="image-container">
+    <div class="allimg"><div class="image-container">
         <a href='https://www.ufcv.fr/PACA' target='_blank'><img src='https://i.postimg.cc/5tXcFkkz/UFCV-Bleu-web.jpg' border='0' alt='UFCV-Bleu-web'/></a>
     </div>
     <div class="image-container">
@@ -31,4 +36,4 @@ in_menu: true
        <a href='https://www.fonjep.org/en-region/provence-alpes-cote-dazur' target='_blank'><img src='https://i.postimg.cc/tTs7gj6V/logo.png' border='0' alt='logo'/></a>
     </div>
     <div class="image-container">
-    <a href='https://www.ac-nice.fr/sdjes-83' target='_blank'><img src='https://i.postimg.cc/Xv9Sn1Hk/21-logo-AC-NICE.jpg' border='0' alt='21-logo-AC-NICE'/></a> 
+    <a href='https://www.ac-nice.fr/sdjes-83' target='_blank'><img src='https://i.postimg.cc/Xv9Sn1Hk/21-logo-AC-NICE.jpg' border='0' alt='21-logo-AC-NICE'/></a> </div> </div> 

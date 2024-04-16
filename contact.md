@@ -20,10 +20,10 @@ in_menu: true
 </head>
 
 <body>
-    <div class="image-container">
+    <div class="allimg"><div class="image-container">
         <a href='https://www.francas83.com/' target='_blank'><img src='https://i.postimg.cc/nrQ1tqzN/logo-Francas.jpg' border='0' alt='logo-Francas'/></a>
     </div>
-    <div class="allimg"><div class="image-container">
+    <div class="image-container">
         <a href='https://www.ufcv.fr/PACA' target='_blank'><img src='https://i.postimg.cc/5tXcFkkz/UFCV-Bleu-web.jpg' border='0' alt='UFCV-Bleu-web'/></a>
     </div>
     <div class="image-container">

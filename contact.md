@@ -27,5 +27,5 @@ in_menu: true
         <a href='https://www.uniscite.fr/antenne/toulon-var/' target='_blank'><img src='https://i.postimg.cc/ZqwRJgvy/logo-UC-2022-350-300x98.png' border='0' alt='logo-UC-2022-350-300x98'/></a><a href='https://8306.foyersruraux.org/' target='_blank'><img src='https://i.postimg.cc/WbmkJsdB/logo-FD.jpg' border='0' alt='logo-FD'/></a>
     </div>
     <div class="image-container">
-       <a href='https://www.fonjep.org/en-region/provence-alpes-cote-dazur' target='_blank'><img src='https://i.postimg.cc/tTs7gj6V/logo.png' border='0' alt='logo'/></a><a href='https://www.ac-nice.fr/sdjes-83' target='_blank'><img src='https://i.postimg.cc/Xv9Sn1Hk/21-logo-AC-NICE.jpg' border='0' alt='21-logo-AC-NICE'/></a> </div> 
+       <a href='https://www.fonjep.org/en-region/provence-alpes-cote-dazur' target='_blank'><img src='https://i.postimg.cc/tTs7gj6V/logo.png' border='0' alt='logo'/></a><a href='https://www.ac-nice.fr/sdjes-83' target='_blank'><img src='https://i.postimg.cc/Xv9Sn1Hk/21-logo-AC-NICE.jpg' border='0' alt='21-logo-AC-NICE'/></a> 
 </div> 

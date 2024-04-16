@@ -15,4 +15,11 @@ Ce site internet a pour but :
 
 •	De donner accès à des ressources en ligne (photos, vidéos, documentaires, ...)
 
-•	De retranscrire ce qu'il s'est déroulé durant chaque édition de la journée départementale. 
+•	De retranscrire ce qu'il s'est déroulé durant chaque édition de la journée départementale.
+
+---
+
+###  <span style="color: #3FB8D3">La revue de presse</span>
+
+> Edition du journal _La Marseillaise_ du 05 avril 2024
+[![2024-04-05-educ-pop.jpg](https://i.postimg.cc/wTSCCkWc/2024-04-05-educ-pop.jpg)](https://postimg.cc/zVF2WTYV) 

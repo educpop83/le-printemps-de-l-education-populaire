@@ -3,8 +3,20 @@ title: "Accueil"
 order: 1
 in_menu: true
 ---
-![logo-educ-pop-noir-removebg-preview.png](https://i.postimg.cc/jqL3vYZD/logo-educ-pop-noir-removebg-preview.png)
+<html>
+<head>
+    <style>
+        .image-container {
+            display: inline-block; /* Affiche les images côte à côte */
+            margin-right: 10px; /* Espacement entre les images */
+        }
 
-![logo-educ-pop-rouge-removebg-preview.png](https://i.postimg.cc/2SfHzbmW/logo-educ-pop-rouge-removebg-preview.png)
+.allimg {
+            width:50%;margin-left:25%; margin-right:25%;
+        }
+    </style>
+</head>
+<body>
+    <div class="allimg"><div class="image-container">
 
-![logo-educ-pop-bleu-removebg-preview-1.png](https://i.postimg.cc/sXSQDX3B/logo-educ-pop-bleu-removebg-preview-1.png) 
+![logo-educ-pop-noir-removebg-preview.png](https://i.postimg.cc/jqL3vYZD/logo-educ-pop-noir-removebg-preview.png)![logo-educ-pop-rouge-removebg-preview.png](https://i.postimg.cc/2SfHzbmW/logo-educ-pop-rouge-removebg-preview.png)![logo-educ-pop-bleu-removebg-preview-1.png](https://i.postimg.cc/sXSQDX3B/logo-educ-pop-bleu-removebg-preview-1.png) 

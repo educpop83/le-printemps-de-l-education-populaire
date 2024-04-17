@@ -3,7 +3,7 @@ title: "Edition 2024"
 order: 2
 in_menu: true
 ---
-[![educ-pop.jpg](https://i.postimg.cc/0yRRnqrB/educ-pop.jpg)](https://postimg.cc/hfr546LL)
+![educ-pop.jpg](https://i.postimg.cc/0yRRnqrB/educ-pop.jpg)
 
 ## <span style="color: #3FB8D3">Le Printemps de l'Education Populaire</span>
 
@@ -15,7 +15,7 @@ Cette première journée départementale appelle à redéfinir le rôle de l'éd
 ###  <span style="color: #3FB8D3">La revue de presse</span>
 
 > Edition du journal _La Marseillaise_ du 05 avril 2024
-[![2024-04-05-educ-pop.jpg](https://i.postimg.cc/wTSCCkWc/2024-04-05-educ-pop.jpg)](https://postimg.cc/zVF2WTYV) 
+![2024-04-05-educ-pop.jpg](https://i.postimg.cc/wTSCCkWc/2024-04-05-educ-pop.jpg)
 
 ----
 

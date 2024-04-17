@@ -13,7 +13,4 @@ in_menu: true
 </head>
 <body>
     <div class="allimg">
-
-
-
-<![logo-educ-pop-noir-removebg-preview.png](https://i.postimg.cc/jqL3vYZD/logo-educ-pop-noir-removebg-preview.png)><![logo-educ-pop-rouge-removebg-preview.png](https://i.postimg.cc/2SfHzbmW/logo-educ-pop-rouge-removebg-preview.png)><![logo-educ-pop-bleu-removebg-preview-1.png](https://i.postimg.cc/sXSQDX3B/logo-educ-pop-bleu-removebg-preview-1.png)> 
+<a target='_blank'><img src='https://i.postimg.cc/LhFV6wdS/logo-educ-pop-noir-removebg-preview.png' border='0' alt='logo-educ-pop-noir-removebg-preview'/></a><a target='_blank'><img src='https://i.postimg.cc/XpQKLvrN/logo-educ-pop-rouge-removebg-preview.png' border='0' alt='logo-educ-pop-rouge-removebg-preview'/></a><a target='_blank'><img src='https://i.postimg.cc/dkst5Jkv/logo-educ-pop-bleu-removebg-preview-1.png' border='0' alt='logo-educ-pop-bleu-removebg-preview-1'/></a> 

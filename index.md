@@ -3,6 +3,8 @@ title: "Accueil"
 order: 1
 in_menu: true
 ---
+# Bienvenue sur le site Educ Pop 83 !
+
 <html>
 <head>
     <style>

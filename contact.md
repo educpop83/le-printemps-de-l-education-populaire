@@ -6,6 +6,8 @@ in_menu: true
 ### Organisateur 2024
 [![Logo-Ligue-83-CMJN.jpg](https://i.postimg.cc/NMxfLr2z/Logo-Ligue-83-CMJN.jpg)](https://fol83laligue.org/)
 
+Tiers-lieu numérique ALTernativ' - lalternativ@laligue83.org - 04 94 24 72 82
+
 ### Partenaires associatifs et institutionnels
 <html>
 <head>

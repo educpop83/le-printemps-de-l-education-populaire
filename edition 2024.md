@@ -9,6 +9,11 @@ in_menu: true
 
 Cette première journée départementale appelle à redéfinir le rôle de l'éducation populaire dans notre société, à dessiner les contours de son intervention et à partager notre représentation de ce qu'est l'éducation populaire. Elle a eu lieu au Hall des expositions de la ville de Brignoles (Var)
 
+---
+
+###  <span style="color: #3FB8D3">Le programme de cette édition</span>
+
+![flyer-educ-pop-W-pages-to-jpg-0002.jpg](https://i.postimg.cc/sx9RFWjP/flyer-educ-pop-W-pages-to-jpg-0002.jpg)
 
 ---
 

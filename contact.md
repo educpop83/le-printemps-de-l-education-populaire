@@ -19,6 +19,7 @@ in_menu: true
    width:100%;margin-left:0%; margin-right:0%;
         }
     </style>
+</head>
 </body>
 <div class="allimg"><div class="image-container">
 <a href='https://www.francas83.com/' target='_blank'><img src='https://i.postimg.cc/nrQ1tqzN/logo-Francas.jpg' border='0' alt='logo-Francas'/></a>

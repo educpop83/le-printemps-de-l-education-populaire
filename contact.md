@@ -20,12 +20,11 @@ in_menu: true
         }
     </style>
 </head>
-
 <body>
-    <div class="allimg"><div class="image-container">
+<div class="allimg"><div class="image-container">
 <a href='https://www.francas83.com/' target='_blank'><img src='https://i.postimg.cc/nrQ1tqzN/logo-Francas.jpg' border='0' alt='logo-Francas'/>
 <a href='https://www.ufcv.fr/PACA' target='_blank'><img src='https://i.postimg.cc/5tXcFkkz/UFCV-Bleu-web.jpg' border='0' alt='UFCV-Bleu-web'/>
 <a href='https://www.uniscite.fr/antenne/toulon-var/' target='_blank'><img src='https://i.postimg.cc/ZqwRJgvy/logo-UC-2022-350-300x98.png' border='0' alt='logo-UC-2022-350-300x98'/>
 <a href='https://8306.foyersruraux.org/' target='_blank'><img src='https://i.postimg.cc/WbmkJsdB/logo-FD.jpg' border='0' alt='logo-FD'/></a>
 <a href='https://www.fonjep.org/en-region/provence-alpes-cote-dazur' target='_blank'><img src='https://i.postimg.cc/mDqPvJjs/logo-FONJEP.png' border='0' alt='logo-FONJEP'/>
-<a href='https://www.ac-nice.fr/sdjes-83' target='_blank'><img src='https://i.postimg.cc/Xv9Sn1Hk/21-logo-AC-NICE.jpg' border='0' alt='21-logo-AC-NICE'/></a> 
+<a href='https://www.ac-nice.fr/sdjes-83' target='_blank'><img src='https://i.postimg.cc/Xv9Sn1Hk/21-logo-AC-NICE.jpg' border='0' alt='21-logo-AC-NICE'/> 

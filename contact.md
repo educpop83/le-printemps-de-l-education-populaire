@@ -3,6 +3,8 @@ title: "Contact"
 order: 7
 in_menu: true
 ---
+[![Logo-Ligue-83-CMJN.jpg](https://i.postimg.cc/NMxfLr2z/Logo-Ligue-83-CMJN.jpg)](https://fol83laligue.org/)
+
 **La Ligue de l'enseignement - FOL du Var** a été l'animateur d'un comité d'organisation créé pour l'édition 2024 du _Printemps de l'Education Populaire_, qui a regroupé différents acteurs de l'éducation populaire qui ont répondu présents : 
 
 <html>

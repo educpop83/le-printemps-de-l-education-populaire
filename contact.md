@@ -28,5 +28,6 @@ in_menu: true
 <a href='https://8306.foyersruraux.org/' target='_blank'><img src='https://i.postimg.cc/VNKbzD1K/logo-FD.jpg' border='0' alt='logo-FD'/></a>
 
 ### Partenaires institutionnels
+
 <a href='https://www.fonjep.org/en-region/provence-alpes-cote-dazur' target='_blank'><img src='https://i.postimg.cc/mDqPvJjs/logo-FONJEP.png' border='0' alt='logo-FONJEP'/>
 <a href='https://www.ac-nice.fr/sdjes-83' target='_blank'><img src='https://i.postimg.cc/Xv9Sn1Hk/21-logo-AC-NICE.jpg' border='0' alt='21-logo-AC-NICE'/> 

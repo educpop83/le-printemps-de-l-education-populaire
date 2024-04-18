@@ -11,8 +11,8 @@ in_menu: true
 <head>
     <style>
         .image-container {
-            display: inline-block; /* Affiche les images côte à côte */
-            margin-right: 10px; /* Espacement entre les images */
+            display: inline-block; 
+            margin-right: 10px; 
         }
 
 .allimg {

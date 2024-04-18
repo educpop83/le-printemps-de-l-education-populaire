@@ -19,6 +19,7 @@ in_menu: true
    width:100%;margin-left:0%; margin-right:0%;
         }
     </style>
+</body>
 <div class="allimg"><div class="image-container">
 <a href='https://www.francas83.com/' target='_blank'><img src='https://i.postimg.cc/nrQ1tqzN/logo-Francas.jpg' border='0' alt='logo-Francas'/></a>
 <a href='https://www.ufcv.fr/PACA' target='_blank'><img src='https://i.postimg.cc/5tXcFkkz/UFCV-Bleu-web.jpg' border='0' alt='UFCV-Bleu-web'/></a>

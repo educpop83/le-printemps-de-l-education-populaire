@@ -11,13 +11,13 @@ in_menu: true
 <head>
     <style>
         .image-container {
-            
+            display: inline-flex;
             margin-right: 20px; 
         }
 
 .allimg {
-display: inline;             
-width:50%;margin-left:25%; margin-right:25%;
+             
+   width:50%;margin-left:25%; margin-right:25%;
         }
     </style>
 </head>

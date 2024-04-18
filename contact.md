@@ -12,7 +12,7 @@ in_menu: true
     <style>
         .image-container {
             display: inline-flex;
-            margin-right: 20px; 
+            margin-right: 10px; 
         }
 
 .allimg {

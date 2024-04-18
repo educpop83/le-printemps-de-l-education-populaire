@@ -11,7 +11,7 @@ in_menu: true
 <head>
     <style>
         .image-container {
-            display: inline-flex;
+            display: inline-table;
         }
 
 .allimg {

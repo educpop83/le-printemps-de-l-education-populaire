@@ -14,7 +14,7 @@ in_menu: true
 
 .allimg {
              
-   width:100%;margin-left:0%; margin-right:0%;
+   width:100%;margin-left:25%; margin-right:25%;
         }
     </style>
 </head>

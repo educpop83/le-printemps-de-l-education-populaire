@@ -33,4 +33,5 @@ in_menu: true
 
 <a href='https://www.uniscite.fr/antenne/toulon-var' target='_blank'><img src='https://i.postimg.cc/TwPgbBC8/logo-UC-2022-350-300x98.png' border='0' alt='logo-UC-2022-350-300x98'/></a>
 
-<a href='https://8306.foyersruraux.org' target='_blank'><img src='https://i.postimg.cc/VNKbzD1K/logo-FD.jpg' border='0' alt='logo-FD'/></a> 
+<a href='https://8306.foyersruraux.org' target='_blank'><img src='https://i.postimg.cc/VNKbzD1K/logo-FD.jpg' border='0' alt='logo-FD'/></a>
+<div> 

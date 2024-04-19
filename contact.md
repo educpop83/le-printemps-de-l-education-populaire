@@ -9,6 +9,7 @@ in_menu: true
 **Tiers-lieu numérique ALTernativ'** - 68 avenue Victor Agostini 83000 Toulon <lalternativ@laligue83.org> - 04 94 24 72 82
 
 ### Partenaires associatifs et institutionnels
+
 <html>
 <head>
     <style>

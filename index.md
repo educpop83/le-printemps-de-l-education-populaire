@@ -3,7 +3,9 @@ title: "Accueil"
 order: 1
 in_menu: true
 ---
-## <span style="color: #3FB8D3"><text-center>Bienvenue sur le site Educ Pop 83 !
+## <span style="color: #3FB8D3"><text-center>Bienvenue sur le site varois des acteurs de l'Education populaire !
+
+Ce site a pour vocation de recenser et mettre en lumière les actions départementales réalisées sur le sujet. Libre et open source chacun peut l'utiliser pour donner à lire ce qui se fait en matière de jeunesse et éducation populaire dans le Var - Bonne lecture à tous,
 
 <html>
 <head>

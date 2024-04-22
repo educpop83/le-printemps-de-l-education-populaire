@@ -4,7 +4,7 @@ order: 7
 in_menu: true
 ---
 ### Organisateur 2024
-[![Logo-Ligue-83-CMJN.jpg](https://i.postimg.cc/NMxfLr2z/Logo-Ligue-83-CMJN.jpg)](https://fol83laligue.org/)
+<a href='https://fol83laligue.org/' target='_blank'><img src='https://i.postimg.cc/MMv8FHD7/Logo-Ligue-83-CMJN.jpg' border='0' alt='Logo-Ligue-83-CMJN'/></a>
 
 **Tiers-lieu numérique ALTernativ'** - 68 avenue Victor Agostini 83000 Toulon <lalternativ@laligue83.org> - 04 94 24 72 82
 
